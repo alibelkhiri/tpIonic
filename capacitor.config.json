@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "tuto",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
